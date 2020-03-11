@@ -1,4 +1,4 @@
-### UT-Arlington_FindMe
+###### UT-Arlington_FindMe
 **FindMe** is a mobile application that allows you to find "visible" friends, buildings, parking spots and many other infrastructures on-campus! 
 * FindMe only works within the limits of the UT Arlington campus
 * To find a friend, users would have to add them to their contacts list
