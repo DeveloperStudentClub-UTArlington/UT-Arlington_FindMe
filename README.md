@@ -9,12 +9,14 @@
 * FindMe can  display user's **car location** on the map, as long as they use either drop a pin after parking or use their camera (through ARCore) to automatically identify and drop a pin at that location
 
 ## Use Cases
-1. Item 1
-1. Item 2
-1. Item 3
+1. **Have you ever felt lonely on-campus?** Find-out who's around, grab a cup of coffee, and enjoy a nice chat!
+1. **Choose where to eat, or where to study** depending on who's currently there
+1. **Do you have to go to multiple places but wonder where to start to save time?** Instantly compare distances (with just a tap) and get live ETA to optimize your trips
+1. **Have you ever registered for an event (Workshop, Basketball game, speaker series) but are worried about not seeing any familiar faces there?** FindMe will quicly help you decide if you still want to show up for that event
 
 
-## Prototype UI
+
+## UI Prototype
 
 ![FindMe UI](/IMG_Samples/uta_findme.png)
 
