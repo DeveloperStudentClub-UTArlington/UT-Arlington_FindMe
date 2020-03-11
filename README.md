@@ -8,6 +8,7 @@
 * Users can enjoy an **instant messaging** service with any of their contacts
 * FindMe can  display user's **car location** on the map, as long as they use either drop a pin after parking or use their camera (through ARCore) to automatically identify and drop a pin at that location
 
+## Use Cases
 
 
 ![FindMe UI](/IMG_Samples/uta_findme.png)
