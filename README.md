@@ -12,7 +12,7 @@
 1. **Have you ever felt lonely on-campus?** Find-out who's around, grab a cup of coffee, and enjoy a nice chat!
 1. **Choose where to eat, or where to study** depending on who's currently there
 1. **Do you have to go to multiple places but wonder where to start to save time?** Instantly compare distances (with just a tap) and get live ETA to optimize your trips
-1. **Have you ever registered for an event (Workshop, Basketball game, speaker series) but are worried about not seeing any familiar faces there?** FindMe will quicly help you decide if you still want to show up for that event
+1. **Have you ever registered for an event (Workshop, Basketball game, speaker series) but are worried about not seeing any familiar faces there?** FindMe will quicly help you decide if you still want to show up for that event or would rather stay home
 
 
 
