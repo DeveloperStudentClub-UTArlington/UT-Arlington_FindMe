@@ -1,4 +1,4 @@
 # UT-Arlington_FindMe
-This is the repository for Findme, an Android application built by students from the Developer Student Club (DSC) at The University of Texas at Arlington
+FindMe is a mobile application that allows you to find friends, buildings, parking spots and many other infrastructures on-campus!
 
 ![FindMe UI](/IMG_Samples/uta_findme.png)
