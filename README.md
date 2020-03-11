@@ -9,7 +9,9 @@
 * FindMe can  display user's **car location** on the map, as long as they use either drop a pin after parking or use their camera (through ARCore) to automatically identify and drop a pin at that location
 
 ## Use Cases
-
+1. Item 1
+1. Item 2
+1. Item 3
 
 ![FindMe UI](/IMG_Samples/uta_findme.png)
 
