@@ -13,7 +13,11 @@
 1. Item 2
 1. Item 3
 
+
 ## Prototype UI
+
 ![FindMe UI](/IMG_Samples/uta_findme.png)
 
-**Note:** FindMe is the intelectual property of the **Developer Students Club** at the University of Texas at Arlington. This app is intended to be the club's project for the **Google Solution Challenge 2020**
+
+## Notes
+FindMe is the intelectual property of the **Developer Students Club** at the University of Texas at Arlington. This app is intended to be the club's project for the **Google Solution Challenge 2020**
