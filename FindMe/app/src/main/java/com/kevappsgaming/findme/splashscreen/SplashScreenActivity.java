@@ -3,8 +3,8 @@ package com.kevappsgaming.findme.splashscreen;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.kevappsgaming.findme.MainActivity;
 import com.kevappsgaming.findme.R;
+import com.kevappsgaming.findme.login_register.LoginActivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -21,7 +21,7 @@ public class SplashScreenActivity extends AppCompatActivity {
             public void run(){
                 try{
                     sleep(3000);
-                    Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                    Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
                     startActivity(intent);
                     finish();
                 }

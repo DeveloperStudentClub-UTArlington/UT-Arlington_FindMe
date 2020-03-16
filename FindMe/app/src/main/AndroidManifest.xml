@@ -32,6 +32,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"></activity>
+        <activity android:name=".login_register.LoginActivity"></activity>
+        <activity android:name=".login_register.RegistrationActivity"></activity>
+        <activity android:name=".instant_messaging.ContactActivity"></activity>
     </application>
 
 </manifest>

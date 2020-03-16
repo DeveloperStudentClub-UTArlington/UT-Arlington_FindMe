@@ -2,4 +2,23 @@
     <string name="app_name">FindMe</string>
 
     <string name="google_maps_key">AIzaSyD9W4zhDUYKkc8I27ohFQbAu8SeSlBOBG8</string>
+
+    <string name="text_register">No account yet? Create one</string>
+    <string name="text_member">Already a member? Login</string>
+
+    <string name="registration_firstName">First Name</string>
+    <string name="registration_lastName">Last Name</string>
+    <string name="registration_password">Password</string>
+    <string name="registration_email">Email</string>
+    <string name="registration_button">Sign Up</string>
+
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_studentid">Enter Student ID</string>
+    <string name="error_message_email">Email Required</string>
+    <string name="error_message_password">Password Required</string>
+
 </resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322773001281",
+    "firebase_url": "https://findme-25a78.firebaseio.com",
+    "project_id": "findme-25a78",
+    "storage_bucket": "findme-25a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322773001281:android:e265a7b921521680f092c0",
+        "android_client_info": {
+          "package_name": "com.kevappsgaming.findme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322773001281-e8g6odvopeaq79p253dfjmjvch3thhfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqZnFKPlRrXdw5FOTMzNqzJ6iTk3N5M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322773001281-e8g6odvopeaq79p253dfjmjvch3thhfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
